@@ -1,26 +1,3 @@
-
-@freezed
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 part of 'my_cubit.dart';
 
 @immutable
